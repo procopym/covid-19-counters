@@ -4,7 +4,7 @@ import vuetify from './plugins/vuetify';
 import 'roboto-fontface/css/roboto/roboto-fontface.css'
 import '@mdi/font/css/materialdesignicons.css'
 
-Vue.config.productionTip = true
+Vue.config.productionTip = false
 
 new Vue({
   vuetify,
